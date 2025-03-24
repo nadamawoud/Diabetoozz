@@ -1,0 +1,82 @@
+[
+    {
+        "MeasurementID": 1,
+        "CasualUserID": 101,
+        "MeasurementPeriod": "Fasting",
+        "GlucoseLevel": 95.4,
+        "MeasurementDate": "2025-03-24T07:00:00",
+        "Notes": "Normal fasting level"
+    },
+    {
+        "MeasurementID": 2,
+        "CasualUserID": 102,
+        "MeasurementPeriod": "After Breakfast",
+        "GlucoseLevel": 140.2,
+        "MeasurementDate": "2025-03-24T09:30:00",
+        "Notes": "Slightly high after meal"
+    },
+    {
+        "MeasurementID": 3,
+        "CasualUserID": 103,
+        "MeasurementPeriod": "Before Lunch",
+        "GlucoseLevel": 110.5,
+        "MeasurementDate": "2025-03-24T12:00:00",
+        "Notes": "Within normal range"
+    },
+    {
+        "MeasurementID": 4,
+        "CasualUserID": 104,
+        "MeasurementPeriod": "After Lunch",
+        "GlucoseLevel": 160.8,
+        "MeasurementDate": "2025-03-24T14:30:00",
+        "Notes": "Higher than normal"
+    },
+    {
+        "MeasurementID": 5,
+        "CasualUserID": 105,
+        "MeasurementPeriod": "Before Dinner",
+        "GlucoseLevel": 120.3,
+        "MeasurementDate": "2025-03-24T18:00:00",
+        "Notes": "Stable level"
+    },
+    {
+        "MeasurementID": 6,
+        "CasualUserID": 101,
+        "MeasurementPeriod": "After Dinner",
+        "GlucoseLevel": 145.7,
+        "MeasurementDate": "2025-03-24T20:30:00",
+        "Notes": "Slightly elevated"
+    },
+    {
+        "MeasurementID": 7,
+        "CasualUserID": 102,
+        "MeasurementPeriod": "Fasting",
+        "GlucoseLevel": 92.1,
+        "MeasurementDate": "2025-03-25T06:45:00",
+        "Notes": "Good fasting level"
+    },
+    {
+        "MeasurementID": 8,
+        "CasualUserID": 103,
+        "MeasurementPeriod": "After Breakfast",
+        "GlucoseLevel": 135.9,
+        "MeasurementDate": "2025-03-25T09:15:00",
+        "Notes": "Slightly elevated"
+    },
+    {
+        "MeasurementID": 9,
+        "CasualUserID": 104,
+        "MeasurementPeriod": "Before Lunch",
+        "GlucoseLevel": 108.6,
+        "MeasurementDate": "2025-03-25T11:45:00",
+        "Notes": "Within safe range"
+    },
+    {
+        "MeasurementID": 10,
+        "CasualUserID": 105,
+        "MeasurementPeriod": "After Lunch",
+        "GlucoseLevel": 155.2,
+        "MeasurementDate": "2025-03-25T14:45:00",
+        "Notes": "Needs monitoring"
+    }
+]

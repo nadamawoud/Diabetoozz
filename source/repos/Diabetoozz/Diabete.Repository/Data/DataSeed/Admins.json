@@ -1,0 +1,32 @@
+[
+    {
+        "AdminID": 1,
+        "Name": "Nada",
+        "Email": "nada@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+        "AdminID": 2,
+        "Name": "Noor",
+        "Email": "noor@example.com",
+        "PasswordHash": "e99a18c428cb38d5f260853678922e03"
+    },
+    {
+        "AdminID": 3,
+        "Name": "Mohamed",
+        "Email": "mohamed@example.com",
+        "PasswordHash": "d8578edf8458ce06fbc5bb76a58c5ca4"
+    },
+    {
+        "AdminID": 4,
+        "Name": "Youssef",
+        "Email": "youssef@example.com",
+        "PasswordHash": "6cb75f652a9b52798eb6cf2201057c73"
+    },
+    {
+        "AdminID": 5,
+        "Name": "Omar",
+        "Email": "omar@example.com",
+        "PasswordHash": "827ccb0eea8a706c4c34a16891f84e7b"
+    }
+]

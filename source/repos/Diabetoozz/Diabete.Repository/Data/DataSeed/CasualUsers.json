@@ -1,0 +1,902 @@
+[
+    {
+        "CasualUserID": 1,
+        "Username": "Ali1",
+        "Email": "user1@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01023542330",
+        "CreatedAt": "2025-03-24 20:32:14.033079",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 2,
+        "Username": "Youssef2",
+        "Email": "user2@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01059096011",
+        "CreatedAt": "2025-03-24 20:32:14.033093",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 3,
+        "Username": "Aya3",
+        "Email": "user3@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01043254755",
+        "CreatedAt": "2025-03-24 20:32:14.033098",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 4,
+        "Username": "Hassan4",
+        "Email": "user4@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01089372241",
+        "CreatedAt": "2025-03-24 20:32:14.033102",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 5,
+        "Username": "Omar5",
+        "Email": "user5@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01071590279",
+        "CreatedAt": "2025-03-24 20:32:14.033106",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 6,
+        "Username": "Kareem6",
+        "Email": "user6@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01074182731",
+        "CreatedAt": "2025-03-24 20:32:14.033111",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 7,
+        "Username": "Youssef7",
+        "Email": "user7@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01096749837",
+        "CreatedAt": "2025-03-24 20:32:14.033115",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 8,
+        "Username": "Nada8",
+        "Email": "user8@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01028874758",
+        "CreatedAt": "2025-03-24 20:32:14.033122",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 9,
+        "Username": "Aya9",
+        "Email": "user9@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01081584969",
+        "CreatedAt": "2025-03-24 20:32:14.033126",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 10,
+        "Username": "Youssef10",
+        "Email": "user10@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01020454998",
+        "CreatedAt": "2025-03-24 20:32:14.033130",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 11,
+        "Username": "Ali11",
+        "Email": "user11@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01059288207",
+        "CreatedAt": "2025-03-24 20:32:14.033133",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 12,
+        "Username": "Ali12",
+        "Email": "user12@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01095720024",
+        "CreatedAt": "2025-03-24 20:32:14.033137",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 13,
+        "Username": "Youssef13",
+        "Email": "user13@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01034170000",
+        "CreatedAt": "2025-03-24 20:32:14.033141",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 14,
+        "Username": "Noor14",
+        "Email": "user14@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01048925606",
+        "CreatedAt": "2025-03-24 20:32:14.033145",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 15,
+        "Username": "Kareem15",
+        "Email": "user15@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01066658211",
+        "CreatedAt": "2025-03-24 20:32:14.033149",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 16,
+        "Username": "Mariam16",
+        "Email": "user16@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01012663638",
+        "CreatedAt": "2025-03-24 20:32:14.033152",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 17,
+        "Username": "Youssef17",
+        "Email": "user17@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01049777690",
+        "CreatedAt": "2025-03-24 20:32:14.033156",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 18,
+        "Username": "Mariam18",
+        "Email": "user18@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01089340429",
+        "CreatedAt": "2025-03-24 20:32:14.033159",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 19,
+        "Username": "Mariam19",
+        "Email": "user19@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01058474836",
+        "CreatedAt": "2025-03-24 20:32:14.033163",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 20,
+        "Username": "Kareem20",
+        "Email": "user20@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01086499133",
+        "CreatedAt": "2025-03-24 20:32:14.033166",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 21,
+        "Username": "Nada21",
+        "Email": "user21@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01031665196",
+        "CreatedAt": "2025-03-24 20:32:14.033170",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 22,
+        "Username": "Hassan22",
+        "Email": "user22@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01064993884",
+        "CreatedAt": "2025-03-24 20:32:14.033173",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 23,
+        "Username": "Noor23",
+        "Email": "user23@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01065911791",
+        "CreatedAt": "2025-03-24 20:32:14.033177",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 24,
+        "Username": "Sara24",
+        "Email": "user24@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01026957064",
+        "CreatedAt": "2025-03-24 20:32:14.033180",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 25,
+        "Username": "Hassan25",
+        "Email": "user25@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01096213235",
+        "CreatedAt": "2025-03-24 20:32:14.033183",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 26,
+        "Username": "Kareem26",
+        "Email": "user26@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01024758862",
+        "CreatedAt": "2025-03-24 20:32:14.033187",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 27,
+        "Username": "Nada27",
+        "Email": "user27@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01029192698",
+        "CreatedAt": "2025-03-24 20:32:14.033191",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 28,
+        "Username": "Youssef28",
+        "Email": "user28@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01027833442",
+        "CreatedAt": "2025-03-24 20:32:14.033194",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 29,
+        "Username": "Noor29",
+        "Email": "user29@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01091523883",
+        "CreatedAt": "2025-03-24 20:32:14.033198",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 30,
+        "Username": "Nada30",
+        "Email": "user30@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01080136415",
+        "CreatedAt": "2025-03-24 20:32:14.033201",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 31,
+        "Username": "Mariam31",
+        "Email": "user31@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01099927827",
+        "CreatedAt": "2025-03-24 20:32:14.033205",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 32,
+        "Username": "Sara32",
+        "Email": "user32@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01072906506",
+        "CreatedAt": "2025-03-24 20:32:14.033208",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 33,
+        "Username": "Ali33",
+        "Email": "user33@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01082786847",
+        "CreatedAt": "2025-03-24 20:32:14.033212",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 34,
+        "Username": "Kareem34",
+        "Email": "user34@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01076360761",
+        "CreatedAt": "2025-03-24 20:32:14.033215",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 35,
+        "Username": "Kareem35",
+        "Email": "user35@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01026132924",
+        "CreatedAt": "2025-03-24 20:32:14.033218",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 36,
+        "Username": "Omar36",
+        "Email": "user36@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01026297371",
+        "CreatedAt": "2025-03-24 20:32:14.033222",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 37,
+        "Username": "Youssef37",
+        "Email": "user37@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01073190698",
+        "CreatedAt": "2025-03-24 20:32:14.033238",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 38,
+        "Username": "Noor38",
+        "Email": "user38@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01081706308",
+        "CreatedAt": "2025-03-24 20:32:14.033242",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 39,
+        "Username": "Aya39",
+        "Email": "user39@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01018622214",
+        "CreatedAt": "2025-03-24 20:32:14.033245",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 40,
+        "Username": "Nada40",
+        "Email": "user40@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01022144677",
+        "CreatedAt": "2025-03-24 20:32:14.033249",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 41,
+        "Username": "Youssef41",
+        "Email": "user41@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01036212102",
+        "CreatedAt": "2025-03-24 20:32:14.033252",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 42,
+        "Username": "Mariam42",
+        "Email": "user42@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01058391041",
+        "CreatedAt": "2025-03-24 20:32:14.033256",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 43,
+        "Username": "Kareem43",
+        "Email": "user43@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01059102254",
+        "CreatedAt": "2025-03-24 20:32:14.033259",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 44,
+        "Username": "Kareem44",
+        "Email": "user44@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01053579789",
+        "CreatedAt": "2025-03-24 20:32:14.033262",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 45,
+        "Username": "Noor45",
+        "Email": "user45@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01064148302",
+        "CreatedAt": "2025-03-24 20:32:14.033266",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 46,
+        "Username": "Kareem46",
+        "Email": "user46@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01015098047",
+        "CreatedAt": "2025-03-24 20:32:14.033271",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 47,
+        "Username": "Omar47",
+        "Email": "user47@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01026651071",
+        "CreatedAt": "2025-03-24 20:32:14.033277",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 48,
+        "Username": "Sara48",
+        "Email": "user48@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01055991466",
+        "CreatedAt": "2025-03-24 20:32:14.033293",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 49,
+        "Username": "Mariam49",
+        "Email": "user49@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01084941003",
+        "CreatedAt": "2025-03-24 20:32:14.033299",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 50,
+        "Username": "Hassan50",
+        "Email": "user50@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01099355338",
+        "CreatedAt": "2025-03-24 20:32:14.033305",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 51,
+        "Username": "Ali51",
+        "Email": "user51@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01012805204",
+        "CreatedAt": "2025-03-24 20:32:14.033310",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 52,
+        "Username": "Hassan52",
+        "Email": "user52@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01096244779",
+        "CreatedAt": "2025-03-24 20:32:14.033316",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 53,
+        "Username": "Aya53",
+        "Email": "user53@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01050937998",
+        "CreatedAt": "2025-03-24 20:32:14.033321",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 54,
+        "Username": "Sara54",
+        "Email": "user54@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01064830851",
+        "CreatedAt": "2025-03-24 20:32:14.033327",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 55,
+        "Username": "Kareem55",
+        "Email": "user55@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01056759547",
+        "CreatedAt": "2025-03-24 20:32:14.033340",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 56,
+        "Username": "Mariam56",
+        "Email": "user56@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01099453301",
+        "CreatedAt": "2025-03-24 20:32:14.033346",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 57,
+        "Username": "Youssef57",
+        "Email": "user57@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01067382079",
+        "CreatedAt": "2025-03-24 20:32:14.033350",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 58,
+        "Username": "Noor58",
+        "Email": "user58@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01015487594",
+        "CreatedAt": "2025-03-24 20:32:14.033355",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 59,
+        "Username": "Ali59",
+        "Email": "user59@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01072543002",
+        "CreatedAt": "2025-03-24 20:32:14.033361",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 60,
+        "Username": "Aya60",
+        "Email": "user60@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01043713517",
+        "CreatedAt": "2025-03-24 20:32:14.033367",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 61,
+        "Username": "Mariam61",
+        "Email": "user61@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01058213668",
+        "CreatedAt": "2025-03-24 20:32:14.033373",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 62,
+        "Username": "Hassan62",
+        "Email": "user62@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01055139075",
+        "CreatedAt": "2025-03-24 20:32:14.033378",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 63,
+        "Username": "Hassan63",
+        "Email": "user63@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01064758787",
+        "CreatedAt": "2025-03-24 20:32:14.033384",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 64,
+        "Username": "Mariam64",
+        "Email": "user64@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01068112725",
+        "CreatedAt": "2025-03-24 20:32:14.033390",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 65,
+        "Username": "Noor65",
+        "Email": "user65@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01045696029",
+        "CreatedAt": "2025-03-24 20:32:14.033396",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 66,
+        "Username": "Mariam66",
+        "Email": "user66@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01060553373",
+        "CreatedAt": "2025-03-24 20:32:14.033402",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 67,
+        "Username": "Youssef67",
+        "Email": "user67@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01040120564",
+        "CreatedAt": "2025-03-24 20:32:14.033408",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 68,
+        "Username": "Aya68",
+        "Email": "user68@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01049370802",
+        "CreatedAt": "2025-03-24 20:32:14.033412",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 69,
+        "Username": "Sara69",
+        "Email": "user69@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01029119984",
+        "CreatedAt": "2025-03-24 20:32:14.033417",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 70,
+        "Username": "Aya70",
+        "Email": "user70@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01057175535",
+        "CreatedAt": "2025-03-24 20:32:14.033423",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 71,
+        "Username": "Nada71",
+        "Email": "user71@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01060063469",
+        "CreatedAt": "2025-03-24 20:32:14.033429",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 72,
+        "Username": "Aya72",
+        "Email": "user72@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01089358336",
+        "CreatedAt": "2025-03-24 20:32:14.033434",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 73,
+        "Username": "Ali73",
+        "Email": "user73@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01032780428",
+        "CreatedAt": "2025-03-24 20:32:14.033440",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 74,
+        "Username": "Sara74",
+        "Email": "user74@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01013132213",
+        "CreatedAt": "2025-03-24 20:32:14.033457",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 75,
+        "Username": "Mariam75",
+        "Email": "user75@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01075617961",
+        "CreatedAt": "2025-03-24 20:32:14.033463",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 76,
+        "Username": "Sara76",
+        "Email": "user76@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01083034556",
+        "CreatedAt": "2025-03-24 20:32:14.033468",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 77,
+        "Username": "Hassan77",
+        "Email": "user77@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01047092664",
+        "CreatedAt": "2025-03-24 20:32:14.033473",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 78,
+        "Username": "Ali78",
+        "Email": "user78@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01070561814",
+        "CreatedAt": "2025-03-24 20:32:14.033480",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 79,
+        "Username": "Noor79",
+        "Email": "user79@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01090481133",
+        "CreatedAt": "2025-03-24 20:32:14.033485",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 80,
+        "Username": "Mariam80",
+        "Email": "user80@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01059058225",
+        "CreatedAt": "2025-03-24 20:32:14.033491",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 81,
+        "Username": "Ali81",
+        "Email": "user81@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01059978063",
+        "CreatedAt": "2025-03-24 20:32:14.033496",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 82,
+        "Username": "Mariam82",
+        "Email": "user82@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01043422729",
+        "CreatedAt": "2025-03-24 20:32:14.033501",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 83,
+        "Username": "Omar83",
+        "Email": "user83@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01080381306",
+        "CreatedAt": "2025-03-24 20:32:14.033506",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 84,
+        "Username": "Sara84",
+        "Email": "user84@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01064493120",
+        "CreatedAt": "2025-03-24 20:32:14.033512",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 85,
+        "Username": "Nada85",
+        "Email": "user85@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01070119077",
+        "CreatedAt": "2025-03-24 20:32:14.033518",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 86,
+        "Username": "Noor86",
+        "Email": "user86@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01010175482",
+        "CreatedAt": "2025-03-24 20:32:14.033524",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 87,
+        "Username": "Ali87",
+        "Email": "user87@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01011215543",
+        "CreatedAt": "2025-03-24 20:32:14.033529",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 88,
+        "Username": "Noor88",
+        "Email": "user88@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01086809145",
+        "CreatedAt": "2025-03-24 20:32:14.033534",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 89,
+        "Username": "Ali89",
+        "Email": "user89@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01020630723",
+        "CreatedAt": "2025-03-24 20:32:14.033539",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 90,
+        "Username": "Noor90",
+        "Email": "user90@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01044106022",
+        "CreatedAt": "2025-03-24 20:32:14.033545",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 91,
+        "Username": "Sara91",
+        "Email": "user91@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01095361492",
+        "CreatedAt": "2025-03-24 20:32:14.033550",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 92,
+        "Username": "Omar92",
+        "Email": "user92@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01068823951",
+        "CreatedAt": "2025-03-24 20:32:14.033563",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 93,
+        "Username": "Hassan93",
+        "Email": "user93@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01048314629",
+        "CreatedAt": "2025-03-24 20:32:14.033569",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 94,
+        "Username": "Omar94",
+        "Email": "user94@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01021299377",
+        "CreatedAt": "2025-03-24 20:32:14.033574",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 95,
+        "Username": "Youssef95",
+        "Email": "user95@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01060312480",
+        "CreatedAt": "2025-03-24 20:32:14.033580",
+        "AdminID": 1
+    },
+    {
+        "CasualUserID": 96,
+        "Username": "Sara96",
+        "Email": "user96@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01045660786",
+        "CreatedAt": "2025-03-24 20:32:14.033585",
+        "AdminID": 2
+    },
+    {
+        "CasualUserID": 97,
+        "Username": "Sara97",
+        "Email": "user97@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01067820833",
+        "CreatedAt": "2025-03-24 20:32:14.033590",
+        "AdminID": 3
+    },
+    {
+        "CasualUserID": 98,
+        "Username": "Ali98",
+        "Email": "user98@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01033322460",
+        "CreatedAt": "2025-03-24 20:32:14.033596",
+        "AdminID": 4
+    },
+    {
+        "CasualUserID": 99,
+        "Username": "Ali99",
+        "Email": "user99@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01082999599",
+        "CreatedAt": "2025-03-24 20:32:14.033602",
+        "AdminID": 5
+    },
+    {
+        "CasualUserID": 100,
+        "Username": "Kareem100",
+        "Email": "user100@example.com",
+        "PasswordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "PhoneNumber": "01039545913",
+        "CreatedAt": "2025-03-24 20:32:14.033609",
+        "AdminID": 1
+    }
+]

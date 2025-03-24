@@ -1,0 +1,42 @@
+[
+    {
+        "AlarmID": 1,
+        "CasualUserID": 101,
+        "AlarmType": "Measure Blood Sugar",
+        "AlarmTime": "2025-03-25T08:00:00",
+        "Notes": "Morning blood sugar check",
+        "CreatedAt": "2025-03-24 20:26:44.113521"
+    },
+    {
+        "AlarmID": 2,
+        "CasualUserID": 102,
+        "AlarmType": "Take Insulin Dose",
+        "AlarmTime": "2025-03-25T12:00:00",
+        "Notes": "Pre-lunch insulin dose",
+        "CreatedAt": "2025-03-24 20:26:44.113534"
+    },
+    {
+        "AlarmID": 3,
+        "CasualUserID": 103,
+        "AlarmType": "Take Tablet",
+        "AlarmTime": "2025-03-25T18:00:00",
+        "Notes": "Evening medication",
+        "CreatedAt": "2025-03-24 20:26:44.113538"
+    },
+    {
+        "AlarmID": 4,
+        "CasualUserID": 104,
+        "AlarmType": "Measure Blood Sugar",
+        "AlarmTime": "2025-03-26T07:30:00",
+        "Notes": "Fasting blood sugar test",
+        "CreatedAt": "2025-03-24 20:26:44.113541"
+    },
+    {
+        "AlarmID": 5,
+        "CasualUserID": 105,
+        "AlarmType": "Take Insulin Dose",
+        "AlarmTime": "2025-03-26T20:00:00",
+        "Notes": "Night insulin dose",
+        "CreatedAt": "2025-03-24 20:26:44.113544"
+    }
+]
