@@ -1,0 +1,11 @@
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\bin\Debug\net6.0\Diabetes.Core.deps.json
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\bin\Debug\net6.0\Diabetes.Core.dll
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\bin\Debug\net6.0\Diabetes.Core.pdb
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\obj\Debug\net6.0\Diabetes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\obj\Debug\net6.0\Diabetes.Core.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\obj\Debug\net6.0\Diabetes.Core.AssemblyInfo.cs
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\obj\Debug\net6.0\Diabetes.Core.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\obj\Debug\net6.0\Diabetes.Core.dll
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\obj\Debug\net6.0\refint\Diabetes.Core.dll
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\obj\Debug\net6.0\Diabetes.Core.pdb
+C:\Users\H\source\repos\Diabetoozz\Diabetoozz.Core\obj\Debug\net6.0\ref\Diabetes.Core.dll
